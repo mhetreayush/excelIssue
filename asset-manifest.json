@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.240ee2a8.css",
-    "main.js": "/static/js/main.a19c1f9c.js",
-    "index.html": "/index.html",
-    "main.240ee2a8.css.map": "/static/css/main.240ee2a8.css.map",
-    "main.a19c1f9c.js.map": "/static/js/main.a19c1f9c.js.map"
+    "main.css": "/excelIssue/static/css/main.240ee2a8.css",
+    "main.js": "/excelIssue/static/js/main.a19c1f9c.js",
+    "index.html": "/excelIssue/index.html",
+    "main.240ee2a8.css.map": "/excelIssue/static/css/main.240ee2a8.css.map",
+    "main.a19c1f9c.js.map": "/excelIssue/static/js/main.a19c1f9c.js.map"
   },
   "entrypoints": [
     "static/css/main.240ee2a8.css",
